@@ -32,6 +32,7 @@ The main objective of this project was to clean and organize messy fleet invento
 > Enhanced skills in data organization, formatting, and reporting.
 > Understood the importance of clean data for accurate analysis and visualization.
 
-#Excel #DataAnalysis #DataCleaning #MicrosoftExcel #PivotTable  #ExcelProject #IBM #IBMSkillsBuild #DataAnalytics #BusinessAnalytics #SpreadsheetAnalysis #DataVisualization #FleetInventoryAnalysis #InventoryManagement #DataPreparation #AnalyticsProject #LearningByDoing #BeginnerDataAnalyst #ExcelForDataAnalysis
+'Excel', 'DataAnalysis', 'DataCleaning', 'MicrosoftExcel', 'PivotTable', 'ExcelProject', 'IBM', 'IBMSkillsBuild', 'DataAnalytics', 'BusinessAnalytics', 'SpreadsheetAnalysis', 'DataVisualization', 'FleetInventoryAnalysis', 'InventoryManagement', 'ExcelDashboard', 'DataPreparation', 'AnalyticsProject', 'LearningByDoing', 'BeginnerDataAnalyst', 'ExcelForDataAnalysis'
+
 
 
